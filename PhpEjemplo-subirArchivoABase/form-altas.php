@@ -15,6 +15,7 @@ include 'menu.php';
 <div class="container">
     <h3 class="altaTitulo">FORMULARIO DE ALTA</h3>
 	<form class="altaInput" action="altas.php" method="POST" enctype="multipart/form-data">
+		<center>
 		<div class="grupoInputs">
 		<label for="apellido">Apellido:</label>
 		<input type="text" name="apellido"><br>
@@ -34,7 +35,7 @@ include 'menu.php';
 		<label for="foto">Archivo</label>
 		<input type="file" name="foto"><br>
 	    </div>
-
+		</center>
 		<div class="btn-submit">
 		<input type="submit" value="Grabar"><br>
 	    </div>
