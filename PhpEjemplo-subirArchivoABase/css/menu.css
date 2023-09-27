@@ -3,6 +3,7 @@ body{
     padding: 0;
     background-color: rgb(186, 231, 199);
     font: oblique bold 120% cursive;
+    background-image: url("cremaaaaaa.jpg"); 
 }
 
 .header{
@@ -16,7 +17,7 @@ body{
 
 .titulo{
     text-align: center;
-    color: rgb(76, 0, 255);
+    color: rgb(208, 248, 239);
 }
 
 .menu{
@@ -29,13 +30,13 @@ body{
     text-decoration: none;
     padding: 10px;
     color: rgb(71, 69, 69);
-    background-color: rgb(181, 120, 201);
+    background-color: rgb(165, 248, 209);
     margin: 10px;
     border-radius: 20px;
 }
 
 .menu a:hover{
     border: 1px solid rgb(21, 3, 42);
-    background-color: rgb(158, 133, 185);
+    background-color: rgb(133, 173, 185);
     color: rgb(0, 0, 0);
 }
