@@ -10,8 +10,8 @@ include 'menu.php';
 	<link rel="stylesheet" href="css/formAltas.css">
 </head>
 <body>
-
 <div class="container">
+<div class="form-container">
 	<h3 class="altaTitulo">FORMULARIO DE MODIFICACION</h3>
 	<form class="altaInput" action="modificacion.php" method="POST" >
 	<div class="grupoInputs">
@@ -36,7 +36,8 @@ include 'menu.php';
 		<input type="submit" value="Modificar"><br>
 	    </div>
 	</form>
-</div>
 	
+</div>
+</div>
 </body>
 </html>

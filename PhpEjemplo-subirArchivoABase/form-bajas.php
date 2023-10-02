@@ -10,8 +10,8 @@ include 'menu.php';
 	<link rel="stylesheet" href="css/formAltas.css">
 </head>
 <body>
-
 <div class="container">
+<div class="form-container">
 	<h3 class="altaTitulo" style="text-align: center;">FORMULARIO DE BAJA</h3>
 	<form class="altaInput" action="bajas.php" method="POST" >
 	    <div class="grupoInputs">
@@ -24,6 +24,6 @@ include 'menu.php';
         </div>
 	</form>
 </div>
-	
+</div>
 </body>
 </html>
