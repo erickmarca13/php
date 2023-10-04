@@ -1,21 +1,22 @@
 body{
     margin: 0;
     padding: 0;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family:'Lexend Tera',sans-serif;
     background-image: linear-gradient(90deg, rgba(167,10,93,1) 22%, rgba(110,44,148,1) 47%, rgba(167,10,93,1) 92%);
 }
 
 .header{
     display: flex;
     flex-direction: column;
-    background-color:#086e56;
+    background-image:linear-gradient(0deg, rgba(181,12,76,1) 0%, rgba(119,34,195,1) 51%);
     height: 120px;
     
 }
 
 .titulo{
     text-align: center;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
 }
 
 .menu{
@@ -27,13 +28,13 @@ body{
     text-decoration: none;
     padding: 10px;
     color: rgb(71, 69, 69);
-    background-color: rgb(165, 248, 209);
+    background-color: rgb(171, 44, 239);
     margin: 10px;
     border-radius: 20px;
 }
 
 .menu a:hover{
-    border: 1px solid rgb(21, 3, 42);
-    background-color: rgb(133, 173, 185);
-    color: rgb(0, 0, 0);
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgb(226, 69, 129);
+    color: rgb(13, 0, 255);
 }

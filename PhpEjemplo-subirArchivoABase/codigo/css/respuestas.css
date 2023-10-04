@@ -1,19 +1,22 @@
 .tabla{
-    border: 1px solid rgb(16, 15, 15);
+    border: 1px solid rgb(255, 255, 255);
     width: 80%;
     margin-left: 10%;
 }
 
 .tablatitulo{
     text-align: center;
+    color: white;
+    text-decoration: underline;
 }
 
 .ttitulo{
-    border:1px solid black;
+    border:1px solid rgb(255, 255, 255);
     background-color:gray;
     color:white;
+    text-decoration: underline;
 }
 
 .trmain th{
-    border: 1px solid black;
+    border: 1px solid rgb(255, 255, 255);
 }

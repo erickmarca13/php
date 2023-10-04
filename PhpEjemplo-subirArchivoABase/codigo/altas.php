@@ -30,7 +30,7 @@ if($foto != "none")
 	$base = "gestionsubir";
 $Conexion =  mysqli_connect("localhost","root","",$base);
 
-$cadena= "INSERT INTO persona(apellido, nombre, edad,foto) VALUES ('$ape','$nom','$ed','$contenido')";
+$cadena= "INSERT INTO personas(apellido, nombre, edad,foto) VALUES ('$ape','$nom','$ed','$contenido')";
 
 $resultado = mysqli_query($Conexion,$cadena);
 

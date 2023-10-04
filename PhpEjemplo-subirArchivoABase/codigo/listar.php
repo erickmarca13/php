@@ -27,7 +27,7 @@ include 'menu.php';
 $base = "gestionsubir";
 $Conexion =  mysqli_connect("localhost","root","",$base);
 
-$cadena= "SELECT * FROM persona ";
+$cadena= "SELECT * FROM personas ";
 
 $consulta = mysqli_query($Conexion,$cadena);
 

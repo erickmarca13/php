@@ -12,12 +12,10 @@
 	
 	<div class="menu">		
 	
-	<a href="form-altas.php"><img src="subir.png" alt="Altas"></a><br>
-	<a href="form-bajas.php">Bajas</a><br>
-	<a href="form-modificacion.php">Modificaciones</a><br>
-	<a href="listar.php">Listado de personas</a><br>
-
-	</div>
+	<a href="form-altas.php" style="margin-top: -15px;height: 32px;"><img src="css/img/subir.png" alt="Altas" style="height: margin-top: -15px;height:35px;"></a></a><br>
+	<a href="form-bajas.php" style="margin-top: -15px;height: 35px;"><img src="css/img/eliminar.png" alt="Altas" style="height: 35px;"></a></a><br>
+	<a href="form-modificacion.php" style="margin-top: -15px;height: 35px;"><img src="css/img/editar.png" alt="Altas" style="height: 35px;"></a></a><br>
+	<a href="listar.php" style="margin-top: -15px;height: 35px;"><img src="css/img/portapapeles.png" alt="Altas" style="height: 35px;"></a></a><br>
 	</div>
 	</div>
 	
