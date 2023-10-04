@@ -12,14 +12,14 @@
 	
 	<div class="menu">		
 	
-	<a href="form-altas.php">Alta</a><br>
+	<a href="form-altas.php"><img src="subir.png" alt="Altas"></a><br>
 	<a href="form-bajas.php">Bajas</a><br>
 	<a href="form-modificacion.php">Modificaciones</a><br>
 	<a href="listar.php">Listado de personas</a><br>
 
 	</div>
 	</div>
-	
+	</div>
 	
 </body>
 </html>

@@ -2,13 +2,13 @@ body{
     margin: 0;
     padding: 0;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-image: linear-gradient(270deg, #ecfb62 0, #d4fb62 10%, #b9fa64 20%, #9af969 30%, #74f670 40%, #3cf278 50%, #00ee83 60%, #00ea90 70%, #00e59f 80%, #00e2b0 90%, #00dec2 100%);
+    background-image: linear-gradient(90deg, rgba(167,10,93,1) 22%, rgba(110,44,148,1) 47%, rgba(167,10,93,1) 92%);
 }
 
 .header{
     display: flex;
     flex-direction: column;
-    background-color:radial-gradient(circle at 102.85% 50%, #e5ffc5 0, #d6ffc5 7.14%, #c5ffc6 14.29%, #b3ffc7 21.43%, #9effc9 28.57%, #85fdcb 35.71%, #68f8ce 42.86%, #3cf2d2 50%, #00ecd7 57.14%, #00e6dd 64.29%, #00e1e4 71.43%, #00dbec 78.57%, #00d6f5 85.71%, #00d1fe 92.86%, #00cdff 100%);
+    background-color:#086e56;
     height: 120px;
     
 }

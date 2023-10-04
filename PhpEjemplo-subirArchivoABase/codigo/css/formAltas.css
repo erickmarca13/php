@@ -8,7 +8,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: rgb(199, 191, 191);
+    background-image: linear-gradient(90deg, rgba(255,255,255,0.7023242768787202) 0%, rgba(255,255,255,0.7) 50%, rgba(255,255,255,0.7) 100%);
     padding: 10px;
     border-radius: 5%;
     text-align: center;
